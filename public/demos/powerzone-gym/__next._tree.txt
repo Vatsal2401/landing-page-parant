@@ -1,0 +1,13 @@
+:HL["/demos/powerzone-gym/_next/static/chunks/7d1db4cd5b36fe94.css","style"]
+:HL["/demos/powerzone-gym/_next/static/media/030c76ff40bce98c-s.p.c4196caa.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/demos/powerzone-gym/_next/static/media/0595f7052377a1a2-s.p.0de08f1e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/demos/powerzone-gym/_next/static/media/07ad42c7cbfbb93f-s.p.af991423.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/demos/powerzone-gym/_next/static/media/39d5c3cb31f97406-s.p.60cf2406.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/demos/powerzone-gym/_next/static/media/6c98c9fb873995d2-s.p.4a6499bc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/demos/powerzone-gym/_next/static/media/85183973983c2b0d-s.p.d2e8354e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/demos/powerzone-gym/_next/static/media/a083361d37caf3d1-s.p.5c0d0b0d.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/demos/powerzone-gym/_next/static/media/c6e2684784a55443-s.p.ea91da97.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/demos/powerzone-gym/_next/static/media/ccb04bdeaf6be910-s.p.e12b4b83.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/demos/powerzone-gym/_next/static/media/d52417801b437ee9-s.p.bee4bb2a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/demos/powerzone-gym/_next/static/media/fabcf92ba1ccea36-s.p.19f28380.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"buildId":"YrXMyfbRGRMXrk9gd9zaX","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
